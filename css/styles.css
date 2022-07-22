@@ -153,9 +153,9 @@ margin: 20px 10px;
 @media  (max-width: 1009.98px) {
 
   .grape {
-    transform: rotate(-25deg);
+    transform: rotate(0deg);
     position:  static;
-    width: 22%;
+    width: 60%;
 
 
   }
