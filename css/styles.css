@@ -155,6 +155,7 @@ margin: 20px 10px;
   .grape {
     transform: rotate(-25deg);
     position:  static;
+    width: 22%;
 
 
   }
