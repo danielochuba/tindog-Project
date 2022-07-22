@@ -150,7 +150,7 @@ h3{
 .footer-icon{
 margin: 20px 10px;
 }
-@media  (max-width: 575.98px) {
+@media  (max-width: 950.98px) {
 
   .grape {
     transform: rotate(-25deg);
