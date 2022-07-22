@@ -13,19 +13,7 @@ body {
   font-family: 'Montserrat', sans-serif;
 
 }
-@media  (max-width: 575.98px) {
 
-  .grape {
-    transform: rotate(-25deg);
-    position:  static;
-
-
-  }
-  #title{
-    text-align: center;
-  }
-
-}
 #features{
   background-color: #fff;
   position: relative;
@@ -161,4 +149,17 @@ h3{
 }
 .footer-icon{
 margin: 20px 10px;
+}
+@media  (max-width: 575.98px) {
+
+  .grape {
+    transform: rotate(-25deg);
+    position:  static;
+
+
+  }
+  #title{
+    text-align: center;
+  }
+
 }
